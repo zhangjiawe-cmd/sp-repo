@@ -20,3 +20,4 @@ public class Cart extends BasePojo{
 	private Long itemPrice;
 	private Integer num;
 }
+
